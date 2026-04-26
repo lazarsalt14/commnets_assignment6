@@ -1,0 +1,43 @@
+TRAFFIC SIMULATION STATISTICS
+==================================================
+total_steps: 300
+total_spawned: 215
+total_absorbed: 201
+vehicles_in_network: 14
+avg_travel_time: 9.587064676616915
+min_travel_time: 2
+max_travel_time: 26
+avg_queue_length: 3.703333333333333
+peak_queue_length: 12
+
+Per Sink:
+  SINK_N: {'absorbed': 72, 'avg_travel_time': 11.194444444444445}
+  SINK_E: {'absorbed': 66, 'avg_travel_time': 12.242424242424242}
+  SINK_S: {'absorbed': 63, 'avg_travel_time': 4.968253968253968}
+
+Per Junction:
+  J1: {'vehicles_passed': 133, 'ways': 2}
+  J2: {'vehicles_passed': 112, 'ways': 2}
+  J3: {'vehicles_passed': 110, 'ways': 2}
+  J4: {'vehicles_passed': 39, 'ways': 2}
+  J5: {'vehicles_passed': 49, 'ways': 3}
+  J6: {'vehicles_passed': 66, 'ways': 2}
+  J7: {'vehicles_passed': 116, 'ways': 2}
+
+Per Road:
+  R01: {'total_vehicles': 133, 'avg_queue': 0.14333333333333334}
+  R02: {'total_vehicles': 82, 'avg_queue': 0.5733333333333334}
+  R03: {'total_vehicles': 94, 'avg_queue': 0.57}
+  R04: {'total_vehicles': 112, 'avg_queue': 0.81}
+  R05: {'total_vehicles': 72, 'avg_queue': 0.0}
+  R06: {'total_vehicles': 0, 'avg_queue': 0.0}
+  R07: {'total_vehicles': 29, 'avg_queue': 0.07666666666666666}
+  R08: {'total_vehicles': 66, 'avg_queue': 0.0}
+  R09: {'total_vehicles': 39, 'avg_queue': 0.0}
+  R10: {'total_vehicles': 39, 'avg_queue': 0.17666666666666667}
+  R11: {'total_vehicles': 20, 'avg_queue': 0.13333333333333333}
+  R12: {'total_vehicles': 38, 'avg_queue': 0.17666666666666667}
+  R13: {'total_vehicles': 53, 'avg_queue': 1.0133333333333334}
+  R14: {'total_vehicles': 63, 'avg_queue': 0.0}
+  R15: {'total_vehicles': 0, 'avg_queue': 0.0}
+  R16: {'total_vehicles': 0, 'avg_queue': 0.0}
