@@ -30,6 +30,8 @@ Running `main.py` generates the following files:
 
 * **`statistics.txt`**
   Contains useful metrics and data collected during the simulation. This may include traffic statistics, node performance, or other relevant insights depending on the implementation.
+* **`statistics.png`**
+  A graphical representation of the collected data. This file visualizes key metrics from the simulation using plots, making it easier to interpret trends and performance.
 
 ## Customization
 
